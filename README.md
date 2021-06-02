@@ -1,11 +1,11 @@
 # Air-Quality-Index-using-fbprophet
 Air Quality Index prediction using Facebook's fbprophet open source API (Time series based prediction).
 
-The requirements are.
+The requirements are:
 
-1.pandas = !pip install pandas
+1.pandas = !pip install pandas.
 
-2.matplotlib. 
+2.matplotlib.pyplot : Used for plotting the output graph.
 
 3. Use either !pip install fbprophet or conda install -c conda-forge fbprophet in the jupyter notebook runtime environment to install fb prophet.
 
